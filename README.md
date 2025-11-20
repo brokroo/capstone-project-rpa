@@ -110,17 +110,4 @@ You can extend this project by:
 | Permission errors | Run UiPath Studio as Administrator |
 | Excel is already open | Close Excel before running the bot |
 
-## 📝 License
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-Created for automated customer feedback analysis
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-For issues or questions, please open an issue on GitHub.
-
----
-**Made with ❤️ using UiPath**
+ 

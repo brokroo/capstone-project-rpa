@@ -1,0 +1,6 @@
+{
+  "Name": "CustomerFeedbackSentimentAnalyzer",
+  "ProjectType": "Process",
+  "Description": "Automated system to analyze customer feedback sentiment using text analytics",
+  "MainFile": "Main.xaml"
+}

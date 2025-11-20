@@ -1,0 +1,32 @@
+# UiPath specific
+.local/
+.screenshots/
+*.nupkg
+.settings/
+.tmh/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+Logs/
+
+# Temporary files
+*.tmp
+~$*.xlsx
+~$*.docx
+
+# IDE
+.vscode/
+.idea/
+
+# Excel temporary files
+~$*
+
+# Output folder
+Output/
+
+# Package cache
+packages/

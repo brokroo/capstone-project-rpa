@@ -34,7 +34,7 @@ CustomerFeedbackSentimentAnalyzer/
 
 ### Method 1: Clone from GitHub
 ```bash
-git clone https://github.com/yourusername/CustomerFeedbackSentimentAnalyzer.git
+git clone https://github.com/brokroo/CustomerFeedbackSentimentAnalyzer.git
 cd CustomerFeedbackSentimentAnalyzer
 ```
 
@@ -111,3 +111,4 @@ You can extend this project by:
 | Excel is already open | Close Excel before running the bot |
 
  
+
